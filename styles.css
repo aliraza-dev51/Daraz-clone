@@ -321,11 +321,11 @@ background-image: linear-gradient(90deg, rgb(255, 255, 255), rgba(255, 255, 255,
 }
 
 /* Footer */
-.footer {
+.footer-card-btn {
   color: #1a1a1a;
   font-size: 13px;
   font-weight: bold;
-  margin-top: 20px;
+  margin-top: 10px;
  
 }
 
